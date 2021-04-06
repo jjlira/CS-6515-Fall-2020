@@ -1,0 +1,59 @@
+The following items were loaded from file defaultItems.txt : 
+Name, Integer Weight, Integer Value : 
+"map"                          Wt :     9 Val :   150 
+"compass"                      Wt :    13 Val :    35 
+"water"                        Wt :   153 Val :   200 
+"sandwich"                     Wt :    50 Val :   160 
+"glucose"                      Wt :    15 Val :    60 
+"tin"                          Wt :    68 Val :    45 
+"banana"                       Wt :    27 Val :    60 
+"apple"                        Wt :    39 Val :    40 
+"cheese"                       Wt :    23 Val :    30 
+"beer"                         Wt :    52 Val :    10 
+"suntan cream"                 Wt :    11 Val :    70 
+"camera"                       Wt :    32 Val :    30 
+"t-shirt"                      Wt :    24 Val :    15 
+"trousers"                     Wt :    48 Val :    10 
+"umbrella"                     Wt :    73 Val :    40 
+"waterproof trousers"          Wt :    42 Val :    70 
+"waterproof overclothes"       Wt :    43 Val :    75 
+"note-case"                    Wt :    22 Val :    80 
+"sunglasses"                   Wt :     7 Val :    20 
+"towel"                        Wt :    18 Val :    12 
+"socks"                        Wt :     4 Val :    50 
+"book"                         Wt :    30 Val :    10 
+{1: ('"map"', 9, 150), 2: ('"compass"', 13, 35), 3: ('"water"', 153, 200), 4: ('"sandwich"', 50, 160), 5: ('"glucose"', 15, 60), 6: ('"tin"', 68, 45), 7: ('"banana"', 27, 60), 8: ('"apple"', 39, 40), 9: ('"cheese"', 23, 30), 10: ('"beer"', 52, 10), 11: ('"suntan cream"', 11, 70), 12: ('"camera"', 32, 30), 13: ('"t-shirt"', 24, 15), 14: ('"trousers"', 48, 10), 15: ('"umbrella"', 73, 40), 16: ('"waterproof trousers"', 42, 70), 17: ('"waterproof overclothes"', 43, 75), 18: ('"note-case"', 22, 80), 19: ('"sunglasses"', 7, 20), 20: ('"towel"', 18, 12), 21: ('"socks"', 4, 50), 22: ('"book"', 30, 10)}
+"map"
+"compass"
+"water"
+"sandwich"
+"glucose"
+"tin"
+"banana"
+"apple"
+"cheese"
+"beer"
+"suntan cream"
+"camera"
+"t-shirt"
+"trousers"
+"umbrella"
+"waterproof trousers"
+"waterproof overclothes"
+"note-case"
+"sunglasses"
+"towel"
+"socks"
+"book"
+
+
+Results : The following items were chosen : 
+"beer"                         Wt :    52 Val :    10 
+"book"                         Wt :    30 Val :    10 
+"camera"                       Wt :    32 Val :    30 
+"t-shirt"                      Wt :    24 Val :    15 
+"tin"                          Wt :    68 Val :    45 
+"towel"                        Wt :    18 Val :    12 
+"trousers"                     Wt :    48 Val :    10 
+"umbrella"                     Wt :    73 Val :    40 
+For a total value of <172> and a total weight of [345]
